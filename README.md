@@ -1,10 +1,7 @@
+Na het volgen van verschillende basiscursussen Python wilde ik mijn opgedane kennis toepassen in een oefening. In deze oefening moesten de verschillende onderdelen van objectgeoriënteerd programmeren (OOP) terugkomen. Ik besloot een simulatie van een banksysteem te ontwikkelen, waarin je verschillende soorten rekeningen kunt beheren en de balans inzichtelijk kunt maken.
 
-Hier is een beschrijving voor je README.md bestand, inclusief de nadruk op de OOP-technieken die je hebt toegepast:
+Tijdens het project vond ik het gebruik van staticmethod en classmethod het lastigst, omdat deze methoden anders werken dan reguliere instance-methoden. Door ze te implementeren heb ik echter meer inzicht gekregen in hun nut en toepassing binnen OOP. Dit project combineert diverse OOP-technieken en is een goede oefening in het bouwen van klassen en methoden.
 
-Bankrekening Project
-Dit project bevat een eenvoudige simulatie van verschillende soorten bankrekeningen in Python, waarbij gebruik wordt gemaakt van objectgeoriënteerde programmeertechnieken (OOP). Het bevat klassen en methoden voor een standaard rekening, spaarrekening en betaalrekening, elk met hun eigen functionaliteiten.
-
-Inhoud
 - Rekening (Basisklasse)
 - Spaarrekening (Afgeleide klasse)
 - Betaalrekening (Afgeleide klasse)
